@@ -1,4 +1,9 @@
+<p align="center">
+
 ![Splash de Fallout: A Post Nuclear Role Playing Game](https://cdn.akamai.steamstatic.com/steam/apps/38400/capsule_616x353.jpg?t=1572025441)
+
+</p>
+
 
 # Traducción de Fallout 1 Fixt al español
 Este proyecto pretende llevar una traducción al español lo más completa posible al Fallout original a partir de los textos originales en inglés. Este proyecto NO está relacionado con la ya existente [traducción mejorada del Clan Dlan](http://academia.clandlan.net/?page=academia/view&id=307&title=Traduccion_mejorada_de_Fallout).
