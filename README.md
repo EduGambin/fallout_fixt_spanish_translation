@@ -1,7 +1,5 @@
 <p align="center">
-
-![Splash de Fallout: A Post Nuclear Role Playing Game](https://cdn.akamai.steamstatic.com/steam/apps/38400/capsule_616x353.jpg?t=1572025441)
-
+	<img width="60%" src="https://cdn.akamai.steamstatic.com/steam/apps/38400/capsule_616x353.jpg?t=1572025441">
 </p>
 
 
