@@ -16,5 +16,25 @@ Aclarar que esta traducción está pensada en **español de España**, por lo qu
 Estos son los pasos para poder utilizar la traducción definitiva:
 
 1. Tener una instalación limpia del juego.
-2. Instalar [Fallout Fixt](https://www.nma-fallout.com/resources/fallout-fixt-full-all-fixes-and-mods.8), que arregla numerosos fallos y quita algunos elementos censurados en Europa, como los niños corriendo por las ciudades.
+2. Instalar [Fallout Fixt](https://www.nma-fallout.com/resources/fallout-fixt-full-all-fixes-and-mods.8), que arregla numerosos fallos y quita algunos elementos censurados en Europa, como los niños corriendo por las ciudades. Yo recomiendo utilizar la opción *FULL*, que aunque te avise de que no es 100% canon, no te vas a dar ni cuenta de esas cosas y lo que añade merece la pena.
 3. Descargar este repositorio y poner los archivos dentro de la carpeta `DATA` de Fallout Fixt.
+
+## Personaje masculino o femenino
+En inglés, que es el idioma original del juego, los adjetivos no tienen un género asociado, a diferencia de idiomas como el español (por ejemplo, *"that is my friend"* se puede traducir tanto como "ese es mi amigo" como "esa es mi amiga"). Los desarrolladores originalmente no tuvieron esto en cuenta, así que aunque el juego permita elegir el sexo de tu personaje y ALGUNAS frases cambien, en general esto resulta en un desastre. Es por ello que al crearse un personaje, hay que elegir la traducción correspondiente.
+
+Por el momento, solo estoy haciendo al versión en masculino. Una vez esta esté terminada, se hará la femenina a partir de ella.
+
+## Términos y nomenclatura modificada.
+
+### Nombres de ciudades
+Los nombres de las ciudades y localizaciones pasan a estar en inglés. Esto es para mantener la consistencia con el resto de los juegos, ya que, por ejemplo, en *Fallout 4* no se traduce *Diamond City* como Ciudad Diamante. Hay excepciones cuando tenga sentido, como por ejemplo para los refugios o para la Catedral.
+
+Entiendo que esto puede suponer un problema para los puristas que les gusta más los nombres traducidos. Para mí, tiene más sentido que sea así.
+
+### Tabla de cambios
+Estos son todos los términos que he ido cambiando y la razón de por qué.
+
+| Nombre original | Nombre de la traducción oficial | Nuevo nombre | Razón |
+|-----------------|---------------------------------|--------------|-------|
+| *Shady Sands* | Arenas Sombrías | Shady Sands | Es el nombre de una ciudad |
+| *Junktown* | Ciudad Vertedero | *Junktown* | Es el nombre de una ciudad |
