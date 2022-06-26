@@ -37,4 +37,4 @@ Estos son todos los términos que he ido cambiando y la razón de por qué.
 | Nombre original | Nombre de la traducción oficial | Nuevo nombre | Razón |
 |-----------------|---------------------------------|--------------|-------|
 | *Shady Sands* | Arenas Sombrías | Shady Sands | Es el nombre de una ciudad |
-| *Junktown* | Ciudad Vertedero | *Junktown* | Es el nombre de una ciudad |
+| *Junktown* | Ciudad Vertedero | Junktown | Es el nombre de una ciudad |
