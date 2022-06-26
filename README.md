@@ -1,10 +1,4 @@
-<center>
-
-<img src="https://cdn.akamai.steamstatic.com/steam/apps/38400/capsule_616x353.jpg?t=1572025441" alt="drawing" width="50%"/>
-
-</center>
-
-<div style="text-align: justify">
+![Splash de Fallout: A Post Nuclear Role Playing Game](https://cdn.akamai.steamstatic.com/steam/apps/38400/capsule_616x353.jpg?t=1572025441)
 
 # Traducción de Fallout 1 Fixt al español
 Este proyecto pretende llevar una traducción al español lo más completa posible al Fallout original a partir de los textos originales en inglés. Este proyecto NO está relacionado con la ya existente [traducción mejorada del Clan Dlan](http://academia.clandlan.net/?page=academia/view&id=307&title=Traduccion_mejorada_de_Fallout).
@@ -34,10 +28,6 @@ La solución es crear dos traducciones distintas y utilizar la que corresponda a
 ### Tabla de cambios
 Estos son todos los términos que he ido cambiando y la razón de por qué.
 
-</div>
-
-<center>
-
 | Nombre original | Nombre de la traducción oficial | Nuevo nombre | Razón del cambio |
 |-----------------|---------------------------------|--------------|-------|
 | *Shady Sands* | ~~Arenas Sombrías~~ | **Shady Sands** | Es el nombre de una ciudad |
@@ -46,8 +36,6 @@ Estos son todos los términos que he ido cambiando y la razón de por qué.
 | *Deathclaw* | ~~Garra Mortal~~ | **Sanguinario** | Consistencia con el resto de entregas |
 | *L.A. Boneyard* | ~~Cementerio de LA~~ | **L.A. Boneyard** | Es el nombre de una ciudad |
 | *Super mutant* | ~~Super Mutante~~ | **Supermutante** | Consistencia con el resto de entregas |
-
-</center>
 
 ## Instalación
 Por ahora, no se puede descargar nada aún hasta que hayan archivos funcionales.
